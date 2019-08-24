@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-test ~~this~~
-
 Source code: https://github.com/kremerol
+
 Web site: https://kremerol.github.io/testpages/
 
 You can use the [editor on GitHub](https://github.com/kremerol/testpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +24,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+ ~~strickthrough~~
 
 **Bold** and _Italic_ and `Code` text
 
