@@ -25,19 +25,23 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
- ~~strickthrough~~
+ ~~strikethrough~~
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
+
+### Demo
+
+- Bulleted
 - List
 
 1. Numbered
 2. List
 
- ~~strickthrough~~
+ ~~strikethrough~~
 
 **Bold** and _Italic_ and `Code` text
 
